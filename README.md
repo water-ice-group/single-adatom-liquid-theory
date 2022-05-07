@@ -12,4 +12,4 @@ The content of this repository is licensed under the CC-BY-SA-4.0 license. See t
 
 ## Contents
 * `DFT_inputs`:
-contains all input and output for the DFT calculations. It contains all output for single point (`vasprun.xml`) and neb (`XDATCAR` and `vasprun.xml`) calculations. 3 subdirectories are pristine MoS2 (`DFT_inputs/mos2`), S-vacancy MoS2 NEB (`DFT_inputs/mos2-Vac-s`) and O subtituted S-vacancy MoS2 NEB (`DFT_inputs/mos2-Vac-s-o`). All data to reproduce the theory figures of the paper is provided.
+contains all input and output for the DFT calculations. It contains all output for single point (`vasprun.xml`) and neb (`XDATCAR` and `vasprun.xml`) calculations. 3 subdirectories are for pristine MoS2 (`DFT_inputs/mos2`), S-vacancy MoS2 NEB (`DFT_inputs/mos2-Vac-s`) and O subtituted S-vacancy MoS2 NEB (`DFT_inputs/mos2-Vac-s-o`). All data to reproduce the theory figures of the paper is provided.
